@@ -71,7 +71,7 @@ namespace ex_8
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/Inheritance/blob/main/out-8.png)
 
 ## Result
 Thus C# program to print some messages using hierarchical inheritance is written and executed sucessfully.
